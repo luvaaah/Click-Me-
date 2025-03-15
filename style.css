@@ -1,38 +1,11 @@
-<!-- styles.css -->
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 50px;
     background-color: #ffe6f2;
     color: #333;
-    background-image: url('https://i.imgur.com/9Wgyq8K.jpg'); /* Fixed background image */
+    background-image: url('lebron.jpg'); /* Corrected */
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
-.container {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    display: inline-block;
-    max-width: 500px;
-    backdrop-filter: blur(10px);
-}
-input, button {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: none;
-    border-radius: 5px;
-}
-button {
-    background-color: #ff66b2;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-}
-button:hover {
-    background-color: #ff3385;
-}
-
